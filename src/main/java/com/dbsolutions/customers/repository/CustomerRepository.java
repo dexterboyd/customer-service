@@ -1,7 +1,6 @@
 package com.dbsolutions.customers.repository;
 
 import com.dbsolutions.customers.model.Customer;
-import com.dbsolutions.customers.model.Customer;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.stereotype.Repository;
